@@ -39798,3 +39798,1190 @@ TimeoutError
 2025-09-26 04:42:15,287 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-09-26 04:42:16,091 - Knowledge - INFO - Saving knowledge to Redis...
 2025-09-26 04:42:16,318 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-09-26 05:48:08,422 - Knowledge - INFO - Redis support added with prefix knowledge:b5547g0:
+2025-09-26 05:48:10,332 - Knowledge - INFO - load persisted knowledge: begin
+2025-09-26 05:48:10,424 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:10,546 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:10,641 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cov_build.sh
+2025-09-26 05:48:10,738 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:10,812 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:10,925 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/Monitor.cpp
+2025-09-26 05:48:11,039 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:11,118 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:11,195 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/CMakeLists.txt
+2025-09-26 05:48:11,325 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:11,419 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:11,533 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/UserSettings.cpp
+2025-09-26 05:48:11,639 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:11,763 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:11,843 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/ApplicationConfiguration.h
+2025-09-26 05:48:11,945 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:12,029 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:12,107 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/StorageManager.cpp
+2025-09-26 05:48:12,225 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:12,310 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:12,394 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Analytics.cpp
+2025-09-26 05:48:12,501 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:12,585 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:12,704 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsLogging.h
+2025-09-26 05:48:12,792 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:12,880 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:12,978 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindDL.cmake
+2025-09-26 05:48:13,089 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:13,199 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:13,295 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/test/DobbySpecs/wget.json
+2025-09-26 05:48:13,398 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:13,478 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:13,569 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/CHANGELOG.md
+2025-09-26 05:48:13,681 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:13,768 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:13,842 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/README.md
+2025-09-26 05:48:13,944 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:14,041 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:14,126 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/AnalyticsImplementation.h
+2025-09-26 05:48:14,239 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:14,368 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:14,459 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/sqlite/l1test/Store2NotificationMock.h
+2025-09-26 05:48:14,557 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:14,637 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:14,717 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Tests/AnalyticsBackendMock/CMakeLists.txt
+2025-09-26 05:48:14,799 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:14,889 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:14,966 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/Module.cpp
+2025-09-26 05:48:15,048 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:15,129 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:15,234 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/Backend/AnalyticsBackendLoader.h
+2025-09-26 05:48:15,347 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:15,441 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:15,543 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SceneSet/Module.cpp
+2025-09-26 05:48:15,657 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:15,729 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:15,811 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/CMakeLists.txt
+2025-09-26 05:48:15,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:16,023 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:16,125 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/README.md
+2025-09-26 05:48:16,238 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:16,317 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:16,398 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsString.h
+2025-09-26 05:48:16,536 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:16,620 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:16,701 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilssyncPersistFile.h
+2025-09-26 05:48:16,798 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:16,923 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:17,009 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/gcc-with-coverage.cmake
+2025-09-26 05:48:17,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:17,228 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:17,307 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/CMakeLists.txt
+2025-09-26 05:48:17,394 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:17,467 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:17,560 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/OCIContainer_L2Test.cpp
+2025-09-26 05:48:17,688 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:17,803 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:17,924 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsisValidInt.h
+2025-09-26 05:48:18,007 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:18,146 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:18,230 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l1test/PersistentStoreTest.cpp
+2025-09-26 05:48:18,317 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:18,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:18,531 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsBIT.h
+2025-09-26 05:48:18,609 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:18,717 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:18,806 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/LifecycleInterfaceConnector.cpp
+2025-09-26 05:48:18,921 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:19,030 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:19,109 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/CMakeLists.txt
+2025-09-26 05:48:19,225 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:19,346 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:19,453 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsJsonRpc.h
+2025-09-26 05:48:19,543 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:19,635 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:19,752 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/CloudStore.cpp
+2025-09-26 05:48:19,846 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:19,928 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:20,010 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/JsonRpc/Request.h
+2025-09-26 05:48:20,096 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:20,181 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:20,264 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/RDKWindowManager.cpp
+2025-09-26 05:48:20,377 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:20,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:20,578 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/CMakeLists.txt
+2025-09-26 05:48:20,703 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:20,829 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:20,942 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/SharedStorage.cpp
+2025-09-26 05:48:21,069 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:21,144 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:21,225 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/RuntimeManagerHandler.cpp
+2025-09-26 05:48:21,328 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:21,446 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:21,511 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/l0test/CloudStoreImplementationMock.h
+2025-09-26 05:48:21,596 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:21,698 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:21,780 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/AppManager.cpp
+2025-09-26 05:48:21,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:21,943 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:22,065 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/CMakeLists.txt
+2025-09-26 05:48:22,166 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:22,237 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:22,358 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsProcess.h
+2025-09-26 05:48:22,456 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:22,526 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:22,609 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsSynchroIarm.hpp
+2025-09-26 05:48:22,696 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:22,814 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:22,914 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/ConnectionInitializationResult.h
+2025-09-26 05:48:22,996 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:23,072 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:23,182 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/sqlite/l1test/CMakeLists.txt
+2025-09-26 05:48:23,284 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:23,377 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:23,485 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_UtilsFile.cpp
+2025-09-26 05:48:23,586 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:23,713 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:23,785 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/CHANGELOG.md
+2025-09-26 05:48:23,897 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:24,017 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:24,096 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/PackageManagerImplementation.cpp
+2025-09-26 05:48:24,190 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:24,267 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:24,380 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsTelemetry.h
+2025-09-26 05:48:24,485 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:24,600 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:24,670 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/CMakeLists.txt
+2025-09-26 05:48:24,755 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:24,832 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:24,919 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindUdev.cmake
+2025-09-26 05:48:25,020 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:25,103 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:25,182 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindNopoll.cmake
+2025-09-26 05:48:25,274 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:25,373 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:25,446 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/Logger.h
+2025-09-26 05:48:25,563 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:25,643 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:25,738 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsgetFileContent.h
+2025-09-26 05:48:25,837 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:25,924 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:26,008 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/RialtoConnector.h
+2025-09-26 05:48:26,107 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:26,201 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:26,275 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/Module.cpp
+2025-09-26 05:48:26,404 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:26,478 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:26,558 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/DobbyInterface.h
+2025-09-26 05:48:26,680 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:26,757 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:26,839 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindAC.cmake
+2025-09-26 05:48:26,967 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:27,055 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:27,139 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/ApplicationContext.cpp
+2025-09-26 05:48:27,224 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:27,333 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:27,408 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/USBDevice.cpp
+2025-09-26 05:48:27,505 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:27,597 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:27,692 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/SystemTime/SystemTime.cpp
+2025-09-26 05:48:27,779 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:27,864 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:27,976 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/RuntimeManagerImplementation.cpp
+2025-09-26 05:48:28,059 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:28,143 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:28,234 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SceneSet/SceneSet.cpp
+2025-09-26 05:48:28,325 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:28,413 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:28,491 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/Module.cpp
+2025-09-26 05:48:28,597 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:28,684 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:28,759 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/Roles/Client.h
+2025-09-26 05:48:28,839 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:28,912 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:29,032 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/SocketServer.h
+2025-09-26 05:48:29,113 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:29,213 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:29,300 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/CHANGELOG.md
+2025-09-26 05:48:29,382 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:29,488 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:29,570 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/Module.h
+2025-09-26 05:48:29,666 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:29,740 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:29,818 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l0test/PersistentStoreImplementationMock.h
+2025-09-26 05:48:29,951 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:30,031 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:30,111 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/RequestHandler.h
+2025-09-26 05:48:30,235 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:30,328 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:30,440 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/PersistentStore.cpp
+2025-09-26 05:48:30,539 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:30,661 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:30,780 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/CHANGELOG.md
+2025-09-26 05:48:30,884 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:30,969 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:31,048 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/LifecycleManagerImplementation.cpp
+2025-09-26 05:48:31,148 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:31,232 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:31,310 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/WindowManagerHandler.cpp
+2025-09-26 05:48:31,401 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:31,502 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:31,617 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/CMakeLists.txt
+2025-09-26 05:48:31,700 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:31,797 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:31,887 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/MessageControl.cpp
+2025-09-26 05:48:32,016 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:32,098 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:32,201 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/cmake/FindCurl.cmake
+2025-09-26 05:48:32,289 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:32,363 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:32,453 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/CMakeLists.txt
+2025-09-26 05:48:32,539 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:32,634 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:32,727 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/l0test/CMakeLists.txt
+2025-09-26 05:48:32,808 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:32,892 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:32,969 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/TelemetryImplementation.cpp
+2025-09-26 05:48:33,058 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:33,181 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:33,258 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/IEventHandler.h
+2025-09-26 05:48:33,358 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:33,439 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:33,551 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/PingPong/PingPongDisabled.h
+2025-09-26 05:48:33,635 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:33,702 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:33,814 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/README.md
+2025-09-26 05:48:33,893 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:33,991 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:34,092 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/State.cpp
+2025-09-26 05:48:34,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:34,264 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:34,355 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/MessageOutput.cpp
+2025-09-26 05:48:34,460 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:34,535 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:34,607 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/WSEndpoint.h
+2025-09-26 05:48:34,693 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:34,781 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:34,859 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/UsbDevice_L2Test.cpp
+2025-09-26 05:48:34,940 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:35,018 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:35,094 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/USBMassStorageImplementation.cpp
+2025-09-26 05:48:35,182 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:35,286 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:35,393 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/frontpanel.cpp
+2025-09-26 05:48:35,497 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:35,597 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:35,702 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/cSettings.h
+2025-09-26 05:48:35,779 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:35,851 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:35,943 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/DobbyEventListener.h
+2025-09-26 05:48:36,065 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:36,183 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:36,297 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/NativeJSPlugin.h
+2025-09-26 05:48:36,384 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:36,478 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:36,552 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/Module.cpp
+2025-09-26 05:48:36,650 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:36,740 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:36,823 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_RDKShell.cpp
+2025-09-26 05:48:36,956 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:37,033 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:37,116 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/OCIContainer.cpp
+2025-09-26 05:48:37,216 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:37,308 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:37,391 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/LocalStore/LocalStore.cpp
+2025-09-26 05:48:37,485 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:37,572 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:37,655 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_RunTimeManager.cpp
+2025-09-26 05:48:37,754 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:37,837 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:37,925 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindCTRLM.cmake
+2025-09-26 05:48:38,016 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:38,118 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:38,218 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsIarm.h
+2025-09-26 05:48:38,310 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:38,403 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:38,494 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/OCIContainerImplementation.cpp
+2025-09-26 05:48:38,624 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:38,708 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:38,832 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/CHANGELOG.md
+2025-09-26 05:48:38,928 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:39,010 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:39,122 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/RDKShell.cpp
+2025-09-26 05:48:39,234 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:39,316 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:39,385 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/UserSettings_L2Test.cpp
+2025-09-26 05:48:39,475 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:39,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:39,648 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/StorageManager_L2Test.cpp
+2025-09-26 05:48:39,738 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:39,820 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:39,911 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/RequestHandler.cpp
+2025-09-26 05:48:40,009 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:40,123 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:40,216 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/WebSocket.cpp
+2025-09-26 05:48:40,324 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:40,396 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:40,478 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/Interfaces/ISystemTime.h
+2025-09-26 05:48:40,597 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:40,692 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:40,783 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/MessageControlImplementation.cpp
+2025-09-26 05:48:40,890 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:40,972 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:41,075 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindSqlite.cmake
+2025-09-26 05:48:41,181 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:41,289 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:41,409 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/PersistentStoreImplementation.cpp
+2025-09-26 05:48:41,517 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:41,609 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:41,693 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/doc/MonitorPlugin.md
+2025-09-26 05:48:41,807 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:41,885 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:42,007 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/Module.cpp
+2025-09-26 05:48:42,120 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:42,213 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:42,330 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/js/calc_server.html
+2025-09-26 05:48:42,449 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:42,523 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:42,630 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/Module.h
+2025-09-26 05:48:42,724 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:42,801 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:42,908 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/Module.cpp
+2025-09-26 05:48:43,016 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:43,102 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:43,215 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/WindowManagerConnector.h
+2025-09-26 05:48:43,320 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:43,430 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:43,517 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/README.md
+2025-09-26 05:48:43,638 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:43,718 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:43,798 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/RemotePlugin.cpp
+2025-09-26 05:48:43,936 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:44,011 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:44,115 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsLOG_MILESTONE.h
+2025-09-26 05:48:44,212 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:44,295 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:44,369 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsgetRFCConfig.h
+2025-09-26 05:48:44,454 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:44,533 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:44,620 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/StateHandler.cpp
+2025-09-26 05:48:44,753 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:44,834 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:44,932 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/sqlite/l1test/Store2Test.cpp
+2025-09-26 05:48:45,024 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:45,114 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:45,229 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/CHANGELOG.md
+2025-09-26 05:48:45,314 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:45,398 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:45,521 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l2test/StubTest.cpp
+2025-09-26 05:48:45,628 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:45,744 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:45,844 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/USBDeviceImplementation.cpp
+2025-09-26 05:48:45,962 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:46,058 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:46,140 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/Module.cpp
+2025-09-26 05:48:46,236 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:46,340 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:46,425 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/RippleHandler.h
+2025-09-26 05:48:46,562 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:46,645 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:46,779 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/Module.cpp
+2025-09-26 05:48:46,893 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:46,987 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:47,078 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindGStreamer.cmake
+2025-09-26 05:48:47,196 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:47,293 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:47,372 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/Module.cpp
+2025-09-26 05:48:47,469 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:47,549 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:47,650 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/sqlite/l1test/WorkerPoolImplementation.h
+2025-09-26 05:48:47,738 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:47,818 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:47,909 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/StateTransitionHandler.h
+2025-09-26 05:48:48,029 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:48,141 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:48,263 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l1test/ServiceMock.h
+2025-09-26 05:48:48,376 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:48,467 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:48,578 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/Module.h
+2025-09-26 05:48:48,677 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:48,759 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:48,850 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/Analytics_L2Test.cpp
+2025-09-26 05:48:48,941 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:49,022 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:49,114 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/Module.h
+2025-09-26 05:48:49,207 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:49,312 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:49,421 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/CHANGELOG.md
+2025-09-26 05:48:49,530 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:49,618 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:49,695 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsThreadRAII.h
+2025-09-26 05:48:49,812 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:49,903 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:49,995 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/WebBridge.cpp
+2025-09-26 05:48:50,090 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:50,177 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:50,265 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/UserSettingsImplementation.cpp
+2025-09-26 05:48:50,374 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:50,455 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:50,532 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/LifecycleManager.cpp
+2025-09-26 05:48:50,625 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:50,703 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:50,794 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/CMakeLists.txt
+2025-09-26 05:48:50,892 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:51,001 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:51,093 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_USBMassStorage.cpp
+2025-09-26 05:48:51,211 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:51,338 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:51,419 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/AIConfiguration.h
+2025-09-26 05:48:51,514 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:51,607 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:51,684 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l0test/CMakeLists.txt
+2025-09-26 05:48:51,812 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:51,921 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:52,038 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/UserIdManager.cpp
+2025-09-26 05:48:52,149 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:52,241 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:52,326 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/Interfaces/ILocalStore.h
+2025-09-26 05:48:52,444 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:52,528 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:52,635 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/JsonRpc/Notification.h
+2025-09-26 05:48:52,728 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:52,804 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:52,922 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/Module.h
+2025-09-26 05:48:53,054 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:53,141 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:53,244 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/CHANGELOG.md
+2025-09-26 05:48:53,349 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:53,439 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:53,550 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/Telemetry.cpp
+2025-09-26 05:48:53,636 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:53,743 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:53,851 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/DobbySpecGenerator.h
+2025-09-26 05:48:53,981 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:54,061 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:54,178 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/StorageManagerImplementation.cpp
+2025-09-26 05:48:54,270 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:54,387 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:54,473 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/CHANGELOG.md
+2025-09-26 05:48:54,559 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:54,633 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:54,728 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l0test/Server.h
+2025-09-26 05:48:54,827 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:54,898 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:54,981 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/USBMassStorage.cpp
+2025-09-26 05:48:55,081 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:55,191 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:55,266 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/ResourceManager.cpp
+2025-09-26 05:48:55,370 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:55,464 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:55,562 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindLMPLAYER.cmake
+2025-09-26 05:48:55,666 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:55,768 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:55,860 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/Module.cpp
+2025-09-26 05:48:55,989 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:56,094 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:56,209 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindCurl.cmake
+2025-09-26 05:48:56,332 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:56,511 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:56,624 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/Module.cpp
+2025-09-26 05:48:56,724 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:56,845 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:56,943 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/Module.h
+2025-09-26 05:48:57,043 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:57,135 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:57,228 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_ResourceManager.cpp
+2025-09-26 05:48:57,367 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:57,487 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:57,581 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/Module.h
+2025-09-26 05:48:57,690 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:57,763 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:57,843 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/clang.cmake
+2025-09-26 05:48:57,945 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:58,017 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:58,094 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/HttpClient.cpp
+2025-09-26 05:48:58,212 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:58,307 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:58,405 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l0test/SecureStorageServiceMock.h
+2025-09-26 05:48:58,498 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:58,584 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:58,668 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CMakeLists.txt
+2025-09-26 05:48:58,773 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:58,865 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:58,945 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/Module.cpp
+2025-09-26 05:48:59,075 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:59,198 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:59,309 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/RuntimeManager.cpp
+2025-09-26 05:48:59,403 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:59,504 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:59,585 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/NativeJSImplementation.cpp
+2025-09-26 05:48:59,670 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:48:59,747 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:48:59,828 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/js/WebBridgeSDK.js
+2025-09-26 05:48:59,914 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:00,018 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:00,101 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/RDKWindowManagerImplementation.cpp
+2025-09-26 05:49:00,220 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:00,314 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:00,389 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/SharedStorageImplementation.cpp
+2025-09-26 05:49:00,491 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:00,586 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:00,678 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Module.cpp
+2025-09-26 05:49:00,811 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:00,901 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:01,021 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindLibSoup.cmake
+2025-09-26 05:49:01,113 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:01,224 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:01,314 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindGLIB.cmake
+2025-09-26 05:49:01,438 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:01,543 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:01,630 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/CloudStoreImplementation.cpp
+2025-09-26 05:49:01,727 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:01,820 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:01,897 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/Module.h
+2025-09-26 05:49:02,040 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:02,126 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:02,217 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/RustAdapter.cpp
+2025-09-26 05:49:02,351 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:02,440 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:02,531 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/LocalStore/DatabaseConnection.h
+2025-09-26 05:49:02,642 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:02,765 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:02,890 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/CHANGELOG.md
+2025-09-26 05:49:02,976 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:03,092 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:03,172 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/Module.h
+2025-09-26 05:49:03,301 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:03,381 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:03,483 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/AppManagerImplementation.cpp
+2025-09-26 05:49:03,617 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:03,696 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:03,775 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/LocalPlugin.h
+2025-09-26 05:49:03,905 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:03,988 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:04,061 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_Telemetry.cpp
+2025-09-26 05:49:04,152 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:04,266 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:04,364 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/Interfaces/IAnalyticsBackend.h
+2025-09-26 05:49:04,453 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:04,577 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:04,652 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/SharedStorage_L2Test.cpp
+2025-09-26 05:49:04,764 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:04,861 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:04,944 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/CHANGELOG.md
+2025-09-26 05:49:05,027 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:05,126 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:05,217 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/UsbAccess_L2Test.cpp
+2025-09-26 05:49:05,335 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:05,415 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:05,502 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/PackageManager.cpp
+2025-09-26 05:49:05,598 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:05,700 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:05,780 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/AppManager_L2Test.cpp
+2025-09-26 05:49:05,861 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:05,977 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:06,055 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/JsonRpc/Response.h
+2025-09-26 05:49:06,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:06,256 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:06,337 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/JsonRpc/Notification.cpp
+2025-09-26 05:49:06,424 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:06,514 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:06,602 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/CHANGELOG.md
+2025-09-26 05:49:06,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:06,775 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:06,897 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/AIConfiguration.cpp
+2025-09-26 05:49:07,028 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:07,100 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:07,191 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/Module.h
+2025-09-26 05:49:07,273 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:07,384 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:07,463 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/Module.cpp
+2025-09-26 05:49:07,560 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:07,660 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:07,736 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindGStreamerVideo.cmake
+2025-09-26 05:49:07,816 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:07,919 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:08,000 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/Backend/CMakeLists.txt
+2025-09-26 05:49:08,108 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:08,219 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:08,336 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/DobbySpecGenerator.cpp
+2025-09-26 05:49:08,465 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:08,580 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:08,663 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/LocalStore/LocalStore.h
+2025-09-26 05:49:08,761 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:08,873 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:08,968 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/OCIContainer.h
+2025-09-26 05:49:09,059 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:09,181 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:09,304 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/stubs/i_omi_proxy.hpp
+2025-09-26 05:49:09,398 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:09,491 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:09,611 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/LocalStore/CMakeLists.txt
+2025-09-26 05:49:09,697 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:09,783 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:09,864 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/CHANGELOG.md
+2025-09-26 05:49:09,966 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:10,050 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:10,133 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/frontpanel.h
+2025-09-26 05:49:10,256 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:10,341 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:10,456 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/CMakeLists.txt
+2025-09-26 05:49:10,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:10,667 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:10,746 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/USBMassStorageImplementation.h
+2025-09-26 05:49:10,845 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:10,931 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:11,014 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_OCIContainer.cpp
+2025-09-26 05:49:11,104 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:11,223 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:11,348 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/State.h
+2025-09-26 05:49:11,453 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:11,548 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:11,671 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindRDKStorageManager.cmake
+2025-09-26 05:49:11,789 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:11,884 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:11,991 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/MessageOutput.h
+2025-09-26 05:49:12,082 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:12,168 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:12,249 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/MessageControl.h
+2025-09-26 05:49:12,350 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:12,428 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:12,531 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/WindowManagerHandler.h
+2025-09-26 05:49:12,658 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:12,751 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:12,835 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/CMakeLists.txt
+2025-09-26 05:49:12,926 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:13,005 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:13,089 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/CMakeLists.txt
+2025-09-26 05:49:13,222 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:13,313 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:13,410 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/Module.cpp
+2025-09-26 05:49:13,501 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:13,581 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:13,685 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/RustPlugin.h
+2025-09-26 05:49:13,772 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:13,893 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:13,980 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/LifecycleManagerImplementation.h
+2025-09-26 05:49:14,067 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:14,179 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:14,269 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/PersistentStore.h
+2025-09-26 05:49:14,365 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:14,455 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:14,539 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/PowerManagerInterface.h
+2025-09-26 05:49:14,624 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:14,733 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:14,827 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/TelemetryImplementation.h
+2025-09-26 05:49:14,942 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:15,026 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:15,109 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/Module.cpp
+2025-09-26 05:49:15,224 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:15,300 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:15,386 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsSearchRDKProfile.h
+2025-09-26 05:49:15,479 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:15,601 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:15,697 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/CHANGELOG.md
+2025-09-26 05:49:15,791 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:15,881 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:15,960 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/test/RDKWMJsonL3Test.sh
+2025-09-26 05:49:16,047 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:16,144 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:16,270 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsFile.h
+2025-09-26 05:49:16,365 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:16,468 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:16,566 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/Module.cpp
+2025-09-26 05:49:16,655 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:16,748 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:16,842 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/PackageManagerImplementation.h
+2025-09-26 05:49:16,967 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:17,051 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:17,138 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/CMakeLists.txt
+2025-09-26 05:49:17,268 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:17,388 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:17,528 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/Encryption/TlsEnabled.h
+2025-09-26 05:49:17,625 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:17,708 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:17,784 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/ApplicationContext.h
+2025-09-26 05:49:17,871 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:17,963 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:18,044 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l0test/WorkerPoolImplementation.h
+2025-09-26 05:49:18,176 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:18,255 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:18,342 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/CMakeLists.txt
+2025-09-26 05:49:18,437 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:18,513 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:18,601 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/stubs/omi_proxy.hpp
+2025-09-26 05:49:18,727 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:18,831 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:18,928 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/USBDevice.h
+2025-09-26 05:49:19,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:19,095 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:19,212 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsfileExists.h
+2025-09-26 05:49:19,327 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:19,431 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:19,514 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/CHANGELOG.md
+2025-09-26 05:49:19,606 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:19,692 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:19,776 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/IEventHandler.h
+2025-09-26 05:49:19,900 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:19,980 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:20,069 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l2test/CMakeLists.txt
+2025-09-26 05:49:20,155 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:20,238 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:20,326 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/Module.h
+2025-09-26 05:49:20,489 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:20,572 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:20,650 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SceneSet/SceneSet.h
+2025-09-26 05:49:20,745 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:20,834 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:20,932 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l0test/Store2Test.cpp
+2025-09-26 05:49:21,043 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:21,143 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:21,251 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/RuntimeManagerImplementation.h
+2025-09-26 05:49:21,334 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:21,458 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:21,573 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/SystemTime/SystemTime.h
+2025-09-26 05:49:21,681 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:21,766 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:21,856 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/JsonRpc/Response.cpp
+2025-09-26 05:49:21,954 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:22,029 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:22,123 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/test/thunder-ocicontainer-test.js
+2025-09-26 05:49:22,256 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:22,339 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:22,452 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/CHANGELOG.md
+2025-09-26 05:49:22,532 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:22,614 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:22,705 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/LocalPlugin.cpp
+2025-09-26 05:49:22,801 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:22,911 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:23,001 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l0test/ServiceMock.h
+2025-09-26 05:49:23,106 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:23,227 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:23,325 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/Module.cpp
+2025-09-26 05:49:23,428 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:23,510 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:23,591 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/LocalStore/DatabaseConnection.cpp
+2025-09-26 05:49:23,749 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:23,833 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:23,929 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/Module.h
+2025-09-26 05:49:24,038 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:24,133 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:24,220 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/CHANGELOG.md
+2025-09-26 05:49:24,314 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:24,411 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:24,499 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/UsbMassStorage_L2Test.cpp
+2025-09-26 05:49:24,632 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:24,725 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:24,825 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/RippleHandler.cpp
+2025-09-26 05:49:24,911 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:25,017 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:25,098 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/CMakeLists.txt
+2025-09-26 05:49:25,217 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:25,308 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:25,402 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/UserSettings.h
+2025-09-26 05:49:25,501 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:25,584 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:25,664 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/CHANGELOG.md
+2025-09-26 05:49:25,752 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:25,840 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:25,943 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/Monitor.h
+2025-09-26 05:49:26,075 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:26,159 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:26,282 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/README.md
+2025-09-26 05:49:26,370 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:26,477 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:26,589 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/CMakeLists.txt
+2025-09-26 05:49:26,690 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:26,756 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:26,856 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/test/DobbySpecs/helloworld.json
+2025-09-26 05:49:26,951 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:27,051 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:27,136 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Analytics.h
+2025-09-26 05:49:27,218 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:27,306 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:27,390 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/StorageManager.h
+2025-09-26 05:49:27,483 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:27,599 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:27,698 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/Module.cpp
+2025-09-26 05:49:27,809 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:27,889 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:28,008 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SceneSet/Module.h
+2025-09-26 05:49:28,124 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:28,200 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:28,282 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/Module.cpp
+2025-09-26 05:49:28,391 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:28,499 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:28,608 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/Module.h
+2025-09-26 05:49:28,720 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:28,805 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:28,899 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/ResourceManager_L2Test.cpp
+2025-09-26 05:49:29,030 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:29,114 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:29,220 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindNXCLIENT.cmake
+2025-09-26 05:49:29,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:29,389 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:29,513 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/StateTransitionHandler.cpp
+2025-09-26 05:49:29,636 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:29,714 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:29,834 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/StateTransitionRequest.h
+2025-09-26 05:49:29,919 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:30,012 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:30,100 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsLibraryLoader.h
+2025-09-26 05:49:30,192 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:30,283 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:30,379 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsCStr.h
+2025-09-26 05:49:30,469 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:30,582 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:30,693 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/Module.cpp
+2025-09-26 05:49:30,779 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:30,861 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:30,974 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/README.md
+2025-09-26 05:49:31,080 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:31,163 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:31,280 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Tests/AnalyticsBackendMock/AnalyticsBackendMock.cpp
+2025-09-26 05:49:31,366 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:31,481 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:31,564 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/Findjsoncpp.cmake
+2025-09-26 05:49:31,647 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:31,724 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:31,836 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/LifecycleInterfaceConnector.h
+2025-09-26 05:49:31,929 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:32,052 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:32,144 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/CMakeLists.txt
+2025-09-26 05:49:32,239 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:32,352 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:32,439 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/WindowManagerConnector.cpp
+2025-09-26 05:49:32,573 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:32,666 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:32,757 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/SystemTime/CMakeLists.txt
+2025-09-26 05:49:32,863 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:32,936 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:33,054 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsController.h
+2025-09-26 05:49:33,148 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:33,224 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:33,325 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsUnused.h
+2025-09-26 05:49:33,412 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:33,526 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:33,601 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/CMakeLists.txt
+2025-09-26 05:49:33,713 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:33,796 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:33,913 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/SharedStorage.h
+2025-09-26 05:49:34,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:34,105 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:34,216 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/RDKWindowManager.h
+2025-09-26 05:49:34,325 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:34,408 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:34,501 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/IEventHandler.h
+2025-09-26 05:49:34,586 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:34,701 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:34,814 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/CloudStore.h
+2025-09-26 05:49:34,928 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:35,026 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:35,114 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_USBDevice.cpp
+2025-09-26 05:49:35,213 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:35,329 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:35,420 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/AppManager.h
+2025-09-26 05:49:35,511 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:35,623 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:35,713 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/RuntimeManagerHandler.h
+2025-09-26 05:49:35,800 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:35,875 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:35,961 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/CommunicationInterface/BinaryInterface.h
+2025-09-26 05:49:36,054 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:36,180 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:36,281 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L2Tests/tests/Telemetry_L2Test.cpp
+2025-09-26 05:49:36,369 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:36,472 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:36,611 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/Roles/SingleClientServer.h
+2025-09-26 05:49:36,701 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:36,815 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:36,898 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/tptimer.h
+2025-09-26 05:49:36,988 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:37,090 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:37,182 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/JsonRpc/Request.cpp
+2025-09-26 05:49:37,293 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:37,382 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:37,458 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/PackageManager.h
+2025-09-26 05:49:37,564 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:37,656 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:37,741 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/Store2.h
+2025-09-26 05:49:37,831 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:37,953 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:38,051 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/AppManagerImplementation.h
+2025-09-26 05:49:38,159 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:38,242 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:38,349 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/js/WebBridgeServer.js
+2025-09-26 05:49:38,434 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:38,539 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:38,649 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindIARMBus.cmake
+2025-09-26 05:49:38,737 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:38,853 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:38,951 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindPlabels.cmake
+2025-09-26 05:49:39,051 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:39,153 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:39,266 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/sqlite/Store2.h
+2025-09-26 05:49:39,352 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:39,496 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:39,572 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/NativeJSImplementation.h
+2025-09-26 05:49:39,698 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:39,794 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:39,872 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/Encryption/NoEncryption.h
+2025-09-26 05:49:39,993 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:40,083 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:40,165 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/RuntimeManager.h
+2025-09-26 05:49:40,261 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:40,387 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:40,489 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/test/ociContainerTest.sh
+2025-09-26 05:49:40,610 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:40,712 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:40,786 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/Module.h
+2025-09-26 05:49:40,874 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:40,969 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:41,091 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindNEXUS.cmake
+2025-09-26 05:49:41,188 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:41,277 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:41,364 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Module.h
+2025-09-26 05:49:41,480 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:41,589 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:41,678 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/SharedStorageImplementation.h
+2025-09-26 05:49:41,773 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:41,861 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:41,946 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_UserSettings.cpp
+2025-09-26 05:49:42,040 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:42,114 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:42,198 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/services.cmake
+2025-09-26 05:49:42,294 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:42,370 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:42,480 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/RDKWindowManagerImplementation.h
+2025-09-26 05:49:42,557 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:42,652 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:42,770 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/MessageControl/CMakeLists.txt
+2025-09-26 05:49:42,868 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:42,998 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:43,090 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/CloudStoreImplementation.h
+2025-09-26 05:49:43,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:43,260 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:43,355 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/l0test/CloudStoreTest.cpp
+2025-09-26 05:49:43,485 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:43,569 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:43,670 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/RustAdapter.h
+2025-09-26 05:49:43,766 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:43,867 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:43,964 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_StorageManager.cpp
+2025-09-26 05:49:44,064 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:44,160 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:44,230 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/LifecycleManager.h
+2025-09-26 05:49:44,321 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:44,401 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:44,493 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/js/WebBridgeClient.js
+2025-09-26 05:49:44,576 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:44,668 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:44,760 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/WebBridge/WebBridge.h
+2025-09-26 05:49:44,849 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:44,933 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:45,046 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/PersistentStoreJsonRpc.cpp
+2025-09-26 05:49:45,136 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:45,237 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:45,357 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/UserSettingsImplementation.h
+2025-09-26 05:49:45,455 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:45,532 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:45,626 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/CMakeLists.txt
+2025-09-26 05:49:45,714 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:45,795 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:45,899 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/AnalyticsImplementation.cpp
+2025-09-26 05:49:45,987 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:46,084 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:46,212 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/UserIdManager.h
+2025-09-26 05:49:46,311 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:46,414 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:46,500 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/StorageManagerImplementation.h
+2025-09-26 05:49:46,588 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:46,688 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:46,781 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/Backend/AnalyticsBackendLoader.cpp
+2025-09-26 05:49:46,863 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:46,969 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:47,089 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/Telemetry.h
+2025-09-26 05:49:47,196 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:47,281 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:47,393 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/README.md
+2025-09-26 05:49:47,472 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:47,568 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:47,686 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBMassStorage/USBMassStorage.h
+2025-09-26 05:49:47,776 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:47,888 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:47,992 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/CMakeLists.txt
+2025-09-26 05:49:48,073 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:48,181 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:48,266 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindTTS.cmake
+2025-09-26 05:49:48,356 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:48,435 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:48,556 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindCEC.cmake
+2025-09-26 05:49:48,675 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:48,748 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:48,829 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/UserSettings/Module.h
+2025-09-26 05:49:48,930 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:49,039 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:49,156 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/Module.h
+2025-09-26 05:49:49,283 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:49,372 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:49,454 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/ResourceManager.h
+2025-09-26 05:49:49,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:49,667 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:49,769 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/test/DobbySpecs/sleepy.json
+2025-09-26 05:49:49,868 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:49,952 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:50,031 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PackageManager/HttpClient.h
+2025-09-26 05:49:50,125 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:50,226 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:50,345 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/CommunicationInterface/CommandInterface.h
+2025-09-26 05:49:50,427 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:50,516 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:50,600 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CHANGELOG.md
+2025-09-26 05:49:50,719 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:50,800 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:50,881 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/CMakeLists.txt
+2025-09-26 05:49:50,994 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:51,084 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:51,198 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/grpc/l0test/CMakeLists.txt
+2025-09-26 05:49:51,306 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:51,388 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:51,479 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/OCIContainerImplementation.h
+2025-09-26 05:49:51,597 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:51,699 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:51,784 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Telemetry/README.md
+2025-09-26 05:49:51,875 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:51,966 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:52,086 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SceneSet/CMakeLists.txt
+2025-09-26 05:49:52,191 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:52,268 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:52,355 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/RDKShell.h
+2025-09-26 05:49:52,445 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:52,569 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:52,645 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l0test/PersistentStoreTest.cpp
+2025-09-26 05:49:52,729 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:52,817 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:52,938 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/StorageManager/RequestHandler.cpp
+2025-09-26 05:49:53,043 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:53,123 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:53,215 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/README.md
+2025-09-26 05:49:53,330 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:53,404 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:53,522 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindDS.cmake
+2025-09-26 05:49:53,613 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:53,774 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:53,885 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/RequestHandler.h
+2025-09-26 05:49:53,969 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:54,049 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:54,147 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CONTRIBUTING.md
+2025-09-26 05:49:54,251 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:54,337 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:54,416 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/WebSocket.h
+2025-09-26 05:49:54,518 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:54,615 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:54,700 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/NativeJSPlugin.cpp
+2025-09-26 05:49:54,787 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:54,871 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:54,957 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RuntimeManager/DobbyEventListener.cpp
+2025-09-26 05:49:55,042 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:55,134 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:55,250 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/PersistentStoreImplementation.h
+2025-09-26 05:49:55,360 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:55,450 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:55,566 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/CommunicationInterface/JsonRpcInterface.h
+2025-09-26 05:49:55,692 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:55,808 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:55,938 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/SharedStorage/Module.h
+2025-09-26 05:49:56,048 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:56,139 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:56,211 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/WSEndpoint.cpp
+2025-09-26 05:49:56,299 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:56,393 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:56,512 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/AppManager/Module.h
+2025-09-26 05:49:56,621 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:56,703 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:56,798 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/PersistentStore/l1test/CMakeLists.txt
+2025-09-26 05:49:56,892 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:56,969 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:57,060 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/CMakeLists.txt
+2025-09-26 05:49:57,158 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:57,241 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:57,355 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/RemotePlugin.h
+2025-09-26 05:49:57,465 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:57,579 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:57,680 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RustAdapter/SocketServer.cpp
+2025-09-26 05:49:57,784 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:57,910 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:58,012 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/PluginInterfaceBuilder.h
+2025-09-26 05:49:58,101 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:58,179 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:58,254 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/L1Tests/tests/test_AppManager.cpp
+2025-09-26 05:49:58,331 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:58,398 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:58,492 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/Module.cpp
+2025-09-26 05:49:58,578 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:58,681 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:58,777 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindAamp.cmake
+2025-09-26 05:49:58,870 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:58,946 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:59,034 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/WebSockets/PingPong/PingPongEnabled.h
+2025-09-26 05:49:59,125 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:59,208 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:59,332 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/LifecycleManager/StateHandler.h
+2025-09-26 05:49:59,437 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:59,523 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:59,625 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Analytics/Implementation/LocalStore/DatabaseInterface.h
+2025-09-26 05:49:59,740 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:49:59,857 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:49:59,944 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/USBDevice/USBDeviceImplementation.h
+2025-09-26 05:50:00,044 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:00,126 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:00,238 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/Module.h
+2025-09-26 05:50:00,361 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:00,442 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:00,545 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindSqliteSee.cmake
+2025-09-26 05:50:00,664 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:00,744 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:00,856 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsInputValidator.h
+2025-09-26 05:50:00,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:01,067 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:01,143 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/NativeJS/Module.h
+2025-09-26 05:50:01,235 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:01,322 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:01,419 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/helpers/UtilsSynchro.hpp
+2025-09-26 05:50:01,503 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:01,619 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:01,701 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKWindowManager/test/README.md
+2025-09-26 05:50:01,785 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:01,858 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:01,952 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/build_dependencies.sh
+2025-09-26 05:50:02,056 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:02,132 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:02,212 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/Module.h
+2025-09-26 05:50:02,332 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:02,457 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:02,549 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Tests/README.md
+2025-09-26 05:50:02,644 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:02,733 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:02,831 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/CloudStore/l0test/ServiceMock.h
+2025-09-26 05:50:02,937 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:03,043 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:03,121 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/ResourceManager/README.md
+2025-09-26 05:50:03,247 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:03,336 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:03,433 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/OCIContainer/DobbyInterface.cpp
+2025-09-26 05:50:03,574 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:03,651 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:03,737 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/CHANGELOG.md
+2025-09-26 05:50:03,847 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:03,930 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:04,022 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/Monitor/MonitorJsonRpc.cpp
+2025-09-26 05:50:04,117 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:04,226 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:04,310 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/RDKShell/RialtoConnector.cpp
+2025-09-26 05:50:04,401 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/entservices-infra-712.git:kavia-develop
+2025-09-26 05:50:04,522 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fe929269ad0>
+2025-09-26 05:50:04,610 - Knowledge - INFO - process ingested knowledge for /app/data/tataelxsimcvaripplecode5379/718/b5547g0/entservices-infra-712/cmake/FindBCM_HOST.cmake
+2025-09-26 05:50:04,683 - Knowledge - INFO - load persisted knowledge: end
+2025-09-26 05:50:04,764 - Knowledge - INFO - load persisted docinfo: begin
+2025-09-26 05:50:04,841 - Knowledge - INFO - load persisted docinfo: end
+2025-09-26 05:50:05,238 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-09-26 05:50:05,331 - Knowledge - INFO - knowledge worker kw1 start
+2025-09-26 05:50:05,415 - Knowledge - INFO - Knowledge creation complete
+2025-09-26 05:50:05,502 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-09-26 05:50:06,348 - Knowledge - INFO - Saving knowledge to Redis...
+2025-09-26 05:50:06,542 - Knowledge - INFO - Knowledge saved to Redis successfully
