@@ -12,10 +12,10 @@ This repository primarily contains C++ modules and build scripts. To provide a d
 
 - Behavior:
   - Binds to 0.0.0.0
-  - Uses PORT environment variable if set, otherwise defaults to 3000
+  - Uses PORT environment variable if set, otherwise defaults to 3001
 
 - Example:
-  - PORT=3000 npm start
+  - PORT=3001 npm start
 
 - Fallback:
   - A Procfile is also included with: `web: npm start`

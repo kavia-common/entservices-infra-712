@@ -3,7 +3,7 @@
 /**
  * Minimal HTTP server for entservices-infra-712.
  * - Binds to 0.0.0.0 so it is reachable from container networking.
- * - PORT is configurable via process.env.PORT (default 3000).
+ * - PORT is configurable via process.env.PORT (default 3001).
  * - Provides simple health and readiness endpoints.
  *
  * Note: This server is a lightweight bootstrap to ensure the container has
@@ -14,7 +14,7 @@
 const http = require('http');
 
 const HOST = process.env.HOST || '0.0.0.0';
-const PORT = Number.parseInt(process.env.PORT, 10) || 3000;
+const PORT = Number.parseInt(process.env.PORT, 10) || 3001;
 
 /**
  * Safely write a JSON response.
