@@ -1,0 +1,12 @@
+{
+  "name": "entservices-infra-712",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal HTTP server to provide a deterministic start command for the entservices-infra-712 container.",
+  "license": "Apache-2.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:dev": "NODE_ENV=development node server.js"
+  }
+}
