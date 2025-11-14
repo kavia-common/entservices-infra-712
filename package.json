@@ -1,0 +1,14 @@
+{
+  "name": "entservices-infra-712",
+  "version": "1.0.0",
+  "description": "Minimal Node.js Express backend service for entservices-infra-712",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
