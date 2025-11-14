@@ -1,14 +1,12 @@
 {
   "name": "entservices-infra-712",
   "version": "1.0.0",
-  "description": "Minimal Node.js Express backend service for entservices-infra-712",
+  "description": "Infrastructure and supporting services for enterprise applications, including deployment, monitoring, or orchestration utilities.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {
-    "express": "^4.18.2"
-  },
+  "dependencies": {},
   "author": "",
   "license": "ISC"
 }
