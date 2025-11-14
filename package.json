@@ -1,12 +1,14 @@
 {
   "name": "entservices-infra-712",
   "version": "1.0.0",
-  "description": "Infrastructure and supporting services for enterprise applications, including deployment, monitoring, or orchestration utilities.",
+  "description": "Infrastructure and supporting services for enterprise applications.",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.18.0"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }

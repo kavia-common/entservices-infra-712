@@ -1,6 +1,6 @@
 # entservices-infra-712
 
-This project provides infrastructure and supporting services for enterprise applications, including deployment, monitoring, or orchestration utilities.
+This project provides infrastructure and supporting services for enterprise applications, such as deployment, monitoring, or orchestration utilities.
 
 ## Getting Started
 
@@ -11,48 +11,41 @@ This project provides infrastructure and supporting services for enterprise appl
 
 ### Setup
 
-1. Install dependencies (if any).
+1. Install dependencies:
     ```sh
     npm install
     ```
 
 2. Configure environment variables:
-   - Copy `.env.example` to `.env` and adjust `PORT` as needed:
-     ```sh
-     cp .env.example .env
-     ```
+    - Copy `.env.example` to `.env` and (optionally) set `PORT`:
+      ```sh
+      cp .env.example .env
+      ```
 
-3. Start the service:
+3. Start the server:
     ```sh
     npm start
     ```
 
-The server will listen on the port defined in your `.env` file's `PORT` variable, defaulting to 3001.
+The server will listen on the port set in your `.env` file's `PORT` variable (defaults to 3001 if not set).
 
-### Entrypoint
+## Entrypoint
 
-The entrypoint is `server.js`, which launches a simple HTTP server. Ensure the start script `"start": "node server.js"` exists in `package.json`.
+The service entrypoint is [`server.js`](server.js). It uses [Express](https://expressjs.com/) and listens on `process.env.PORT || 3001`.
 
-### Preview System
+### Health Endpoint
 
-To run this service in a preview system, ensure:
-
-- `package.json` has a start script: `"start": "node server.js"`
-- `server.js` exists and listens on `process.env.PORT || 3001`
-- `.env.example` includes a `PORT` variable
-
-## Endpoints
-
-- `GET /` – Returns a JSON message indicating the service is running.
+- `GET /` — Returns a plain message confirming the service is running.
 
 ## Example Environment Setup
 
-Copy `.env.example` to `.env` and customize as needed:
-
+Copy the example:
 ```sh
 cp .env.example .env
 ```
 
+Change `PORT` if you want to use a non-default port.
+
 ## License
 
-See the LICENSE file for details.
+See the [LICENSE](LICENSE) file for details.
