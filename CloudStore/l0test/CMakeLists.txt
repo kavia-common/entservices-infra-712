@@ -38,6 +38,12 @@ add_executable(${PROJECT_NAME}
         CloudStoreTest.cpp
 )
 
+# Provide missing generated Thunder JSON-RPC helper headers (if not shipped in the prefix)
+# so includes like <interfaces/json/JStore2.h> resolve during l0 test builds.
+target_include_directories(${PROJECT_NAME} PRIVATE
+        ${CMAKE_CURRENT_LIST_DIR}/stubs/WPEFramework
+)
+
 target_link_libraries(${PROJECT_NAME} PRIVATE
         gmock_main
         ${NAMESPACE}Plugins::${NAMESPACE}Plugins

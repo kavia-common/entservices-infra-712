@@ -1,0 +1,32 @@
+CloudStore l0 test build/run report (workspace: entservices-infra-712)
+
+Commands requested:
+1) Configure:
+   cmake -S CloudStore/l0test -B build/cloudstore-l0 -DCMAKE_PREFIX_PATH=/home/kavia/workspace/code-generation/app-gateway2/dependencies/install
+
+Result: CONFIGURE SUCCESS
+Notes: Only warnings (FetchContent timestamp / deprecated cmake_minimum_required inside googletest; CMP0148 warning from FindConfigGenerator).
+
+2) Build:
+   cmake --build build/cloudstore-l0 -j"$(nproc)"
+
+Result: BUILD FAILED
+Exact error:
+  /home/kavia/workspace/code-generation/entservices-infra-712/CloudStore/CloudStore.h:23:10: fatal error: interfaces/json/JStore2.h: No such file or directory
+  #include <interfaces/json/JStore2.h>
+
+3) Run tests:
+   ./build/cloudstore-l0/cloudstorel0test
+
+Result: NOT RUN (binary not produced due to build failure)
+
+Binary output path:
+- Expected: /home/kavia/workspace/code-generation/entservices-infra-712/build/cloudstore-l0/cloudstorel0test
+- Produced: none (build failure)
+
+Local fix added (in repo):
+- Added stub header: CloudStore/l0test/stubs/WPEFramework/interfaces/json/JStore2.h
+- Added include path to CloudStore/l0test/CMakeLists.txt
+
+Next step:
+- Re-run configure/build, then execute ./build/cloudstore-l0/cloudstorel0test and capture pass/fail summary.
