@@ -38,6 +38,11 @@ add_executable(${PROJECT_NAME}
         CloudStoreTest.cpp
 )
 
+# Ensure locally-provided stubs for generated headers are available
+target_include_directories(${PROJECT_NAME} PRIVATE
+        ${CMAKE_CURRENT_SOURCE_DIR}/stubs
+)
+
 target_link_libraries(${PROJECT_NAME} PRIVATE
         gmock_main
         ${NAMESPACE}Plugins::${NAMESPACE}Plugins
